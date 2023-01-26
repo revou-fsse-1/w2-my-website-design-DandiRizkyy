@@ -1,6 +1,7 @@
 # Dandi Rizky Week 2 Assignment
 
-🏗️ Links on progress 🏗️
+Miro Links : https://miro.com/app/board/uXjVPuV9VO8=/?share_link_id=322368024831
+Figma Links :
 
 # Inspiration
 
