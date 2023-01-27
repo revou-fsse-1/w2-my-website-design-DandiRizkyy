@@ -18,6 +18,15 @@ Figma Links (Mockup and Prototype) : [Links](https://www.figma.com/file/FE76JEok
 
 ## Screenshots 🎨
 
+Wireframe
+![wireframe](/assets/wireframe.jpg)
+
+Mockup and Prototype
+![home](/assets/home-pages.png)
+![dropdown](/assets/dropdown-menu.png)
+![support](/assets/support-pages.png)
+![contact](/assets/contact-pages.png)
+
 ---
 
 ## Technologies 🚀
@@ -28,7 +37,7 @@ Figma and Miro
 
 <img height="30" title="Figma" alt="Figma" src="./assets/figma.png"><img height="30" title="Miro" alt="Miro" src="./assets/miro.png">
 
-## Inspiration
+## Inspiration 💡
 
 ---
 
