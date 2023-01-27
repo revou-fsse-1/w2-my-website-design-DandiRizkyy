@@ -16,24 +16,22 @@ Miro Links (Wireframe) : [Links](https://miro.com/app/board/uXjVPuV9VO8=/?share_
 
 Figma Links (Mockup and Prototype) : [Links](https://www.figma.com/file/FE76JEokKsLdmsdfOVJtkM/Dandi-Rizky-Week-2?node-id=42%3A3&t=HktKNx1XIUnQk47L-1)
 
-## Screenshots
+## Screenshots 🎨
 
 ---
 
-## Technologies
+## Technologies 🚀
 
 ---
 
-- Figma
-- Miro
+Figma and Miro
 
-## Color Pallete
-
----
+<img height="30" title="Figma" alt="Figma" src="./assets/figma.png">
+<img height="30" title="Miro" alt="Miro" src="./assets/miro.png">
 
 ## Inspiration
 
 ---
 
-- Nvidia Website : https://www.nvidia.com/en-us/
-- Intel Website : https://www.intel.co.id/content/www/id/id/homepage.html
+- Nvidia Website : [Links](https://www.nvidia.com/en-us/)
+- Intel Website : [Links](https://www.intel.co.id/content/www/id/id/homepage.html)
