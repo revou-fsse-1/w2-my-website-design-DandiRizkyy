@@ -6,7 +6,7 @@
 
 ---
 
-For this week assignment, i create a website inspired from Nvidia and Intel website. Hope you like it.
+For this week assignment, i create a website inspired from Nvidia and Intel website. Hope you like it. ☕
 
 ## Links 🔗
 
