@@ -39,9 +39,11 @@ Figma and Miro
 
 <img height="30" title="Figma" alt="Figma" src="./assets/figma.png"><img height="30" title="Miro" alt="Miro" src="./assets/miro.png">
 
-## Inspiration 💡
+## Inspiration and References 💡
 
 ---
 
 - Nvidia Website : [Links](https://www.nvidia.com/en-us/)
 - Intel Website : [Links](https://www.intel.co.id/content/www/id/id/homepage.html)
+- Unsplash : [Links](https://unsplash.com/)
+- Colorhunt : [Links](https://colorhunt.co/palette/ffd4d4ffffe8cde990aacb73)
