@@ -26,8 +26,7 @@ Figma Links (Mockup and Prototype) : [Links](https://www.figma.com/file/FE76JEok
 
 Figma and Miro
 
-<img height="30" title="Figma" alt="Figma" src="./assets/figma.png">
-<img height="30" title="Miro" alt="Miro" src="./assets/miro.png">
+<img height="30" title="Figma" alt="Figma" src="./assets/figma.png"><img height="30" title="Miro" alt="Miro" src="./assets/miro.png">
 
 ## Inspiration
 
