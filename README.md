@@ -18,6 +18,8 @@ Figma Links (Mockup and Prototype) : [Links](https://www.figma.com/file/FE76JEok
 
 ## Screenshots 🎨
 
+---
+
 Wireframe
 ![wireframe](/assets/wireframe.jpg)
 
